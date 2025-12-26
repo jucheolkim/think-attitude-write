@@ -2,6 +2,9 @@
 date = '2025-12-24T14:30:17+09:00'
 draft = false
 title = '"개발자 없이 혼자서 GTM과 GA4 연결하기 (feat. Hugo)"'
+categories = ["TechnicalMemorior"]
+tags = ["GA4", "블로그", "Data"]
+
 +++
 "코딩을 몰라도 할 수 있다. Hugo 블로그에 구글 태그 매니저(GTM)와 애널리틱스(GA4)를 직접 설치한 과정을 정리했다."
 ---
